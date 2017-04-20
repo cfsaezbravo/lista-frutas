@@ -1,1 +1,1 @@
-javascript.js
+alert("Esta es mi página del supermercado Master")
