@@ -1,1 +1,1 @@
-alert("Esta es mi página del supermercado Master")
+alert("Bienvenid@ a mi página del supermercado Master");
